@@ -60,7 +60,7 @@ Feel free to fork this repository and suggest improvements or additional dashboa
 ---
 
 ## 📌 Author
-Created by Zuha Fathima 
+Created by Zuha Fathima
 📧 Contact: zuhafathima1509@gmail.com 
-🔗 GitHub: [Your GitHub Profile]https://github.com/zuhhhaa
+🔗 GitHub: https://github.com/zuhhhaa
 
