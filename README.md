@@ -23,7 +23,7 @@ It provides multiple dashboards with automated charts, KPIs, and insights.
 ## 📷 Preview
 Here’s a snapshot of the dashboard:
 
-![Sales Dashboard Preview] https://github.com/zuhhhaa/Excel-Dashboard-Project/blob/main/Sales%20Dashboard%20%20img.png
+![Sales Dashboard Preview](https://github.com/zuhhhaa/Excel-Dashboard-Project/blob/main/Sales%20Dashboard%20%20img.png)
 
 ---
 
